@@ -25,8 +25,6 @@ JDBC is a Java API that enables Java applications to interact with relational da
 * ResultSet
 * CRUD Operations
 * Exception Handling
-* Batch Processing
-* Transactions
 
 ## 🎯 Learning Objectives
 
