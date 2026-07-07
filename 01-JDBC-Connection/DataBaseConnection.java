@@ -15,7 +15,7 @@ public class DataBaseConnection {
 			System.out.println("Step 1 : Load the Driver class");
 			
 			Connection connection = 
-		    DriverManager.getConnection("jdbc:mySQL://localhost:3306/batch_k_1316","root","kaveri");
+		    DriverManager.getConnection("jdbc:mySQL://localhost:3306/db_name","root","your_password");
 			System.out.println("Step 2 : Establish the connection");
 			
 			String query = "select * from employee";
