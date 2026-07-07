@@ -1,4 +1,4 @@
-# Day 1 - JDBC Connection
+# JDBC Connection
 
 ## Objective
 Learn how to connect a Java application with a MySQL database using JDBC and retrieve records.
