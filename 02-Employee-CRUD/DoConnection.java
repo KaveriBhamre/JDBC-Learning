@@ -7,10 +7,10 @@ import java.sql.*;
 
 public class DoConnection {
 	private static String driver_path = "com.mysql.cj.jdbc.Driver";
-	private static String database_name = "batch_k_1316";
+	private static String database_name = "db_name";
 	private static String database_url = "jdbc:mysql://localhost:3306/";
 	private static String username = "root";
-	private static String password = "kaveri";
+	private static String password = "your_password";
 	private static Connection connection = null;
 	private static Statement statement = null;
 	private static ResultSet resultSet = null;
