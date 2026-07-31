@@ -45,7 +45,6 @@ After completing JDBC, I plan to explore:
 * Hibernate ORM
 * Spring Framework
 * Spring Boot
-* Spring Data JPA
 
 ## 👩‍💻 Author
 
